@@ -1,6 +1,8 @@
 # Intro-to-C
 Introductory class to programming in C
 
+FinalProject: Movie selection experience for a user.
+
 Lab1: Breakdown the total number of cents a user has.
 
 Lab3: Open a .txt file of books, and print the oldest book, the average cost of the books, the most expensive author, and the books in alphabetical order.
