@@ -14,3 +14,7 @@ lab2_version1: Open files and output the specific files the user wants to see th
 lab2_version2: Open a file of books and print all its contents. Print error messages when necessary.
 
 lab2_version3: Open a file of books and print the contents of the books the user chooses. Print error messages if the user input is invalid.
+
+secretnumber: Use a while loop to have a user keep guessing a secret number while giving hints.
+
+somethingelse: print 10 random numbers.
