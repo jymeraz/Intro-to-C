@@ -3,6 +3,8 @@ Introductory class to programming in C
 
 Lab1: Breakdown the total number of cents a user has.
 
+Lab3: Open a .txt file of books, and print the oldest book, the average cost of the books, the most expensive author, and the books in alphabetical order.
+
 lab2_part1: Read user input, welcome them by name, and breakdown the total cents they have.
 
 lab2_version1: Open files and output the specific files the user wants to see through input/output.
